@@ -54,9 +54,9 @@ Explanation: There is no cycle in the linked list.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 43 MB  
-**Submitted:** 2026-08-20T03:47:09.022Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 46.7 MB (beats 50.73%)  
+**Submitted:** 2026-08-20T03:47:15.820Z  
 
 ```java
 public class Solution {
