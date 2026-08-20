@@ -43,9 +43,9 @@ Output: [3,2,1,4,5]
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 46.6 MB (beats 17.13%)  
-**Submitted:** 2026-08-20T03:48:35.245Z  
+**Runtime:** 0 ms  
+**Memory:** 42.5 MB  
+**Submitted:** 2026-08-20T03:49:44.833Z  
 
 ```java
 class Solution {
