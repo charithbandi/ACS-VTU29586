@@ -40,7 +40,7 @@ Output: false
 **Language:** Java  
 **Runtime:** 3 ms (beats 99.83%)  
 **Memory:** 94 MB (beats 96.15%)  
-**Submitted:** 2026-08-20T03:59:19.417Z  
+**Submitted:** 2026-08-20T04:06:20.314Z  
 
 ```java
 class Solution {
