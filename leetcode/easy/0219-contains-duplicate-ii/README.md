@@ -43,9 +43,9 @@ Output: false
 ## Solution
 
 **Language:** Java  
-**Runtime:** 28 ms (beats 52.23%)  
-**Memory:** 107.6 MB (beats 42.31%)  
-**Submitted:** 2026-08-24T03:39:17.255Z  
+**Runtime:** 0 ms  
+**Memory:** 42.5 MB  
+**Submitted:** 2026-08-24T03:39:42.097Z  
 
 ```java
 // Time Complexity : O(n)
