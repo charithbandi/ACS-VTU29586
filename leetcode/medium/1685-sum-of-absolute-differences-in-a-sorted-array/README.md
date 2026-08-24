@@ -42,9 +42,9 @@ Output: [24,15,13,15,21]
 ## Solution
 
 **Language:** Java  
-**Runtime:** 6 ms (beats 3.59%)  
-**Memory:** 90.6 MB (beats 23.10%)  
-**Submitted:** 2026-08-24T03:41:23.481Z  
+**Runtime:** 0 ms  
+**Memory:** 42.9 MB  
+**Submitted:** 2026-08-24T03:42:16.660Z  
 
 ```java
 class Solution{
