@@ -13,13 +13,13 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **46** |
-| 🟡 Medium | **24** |
-| 🔴 Hard | **4** |
-| **Total** | **74** |
+|WEEK 1 | **10** |
+|WEEK 2 | **8** |
+|WEEK 3 | **9** |
+| **Total** | **27** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| Java | **74** |
+| Java | **27** |
