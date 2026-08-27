@@ -43,9 +43,9 @@ Explanation: 1 cannot be popped before 2.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 42.6 MB  
-**Submitted:** 2026-08-27T04:01:43.162Z  
+**Runtime:** 2 ms (beats 88.46%)  
+**Memory:** 46 MB (beats 95.89%)  
+**Submitted:** 2026-08-27T04:01:49.109Z  
 
 ```java
 class Solution {
