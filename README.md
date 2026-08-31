@@ -2,10 +2,13 @@
 
 # 🧠 Coding Solutions
 
-![Total Tasks](https://img.shields.io/badge/Tasks-27-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-77-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-27--08--2026-green?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-31--08--2026-green?style=for-the-badge)
 
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
 
 ---
 
@@ -13,13 +16,34 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-|WEEK 1 | **10** |
-|WEEK 2 | **8** |
-|WEEK 3 | **9** |
-| **Total** | **27** |
+| 🟢 Easy | **47** |
+| 🟡 Medium | **26** |
+| 🔴 Hard | **4** |
+| **Total** | **77** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| Java | **27** |
+| Java | **77** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-08-31* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
