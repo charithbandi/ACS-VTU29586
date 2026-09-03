@@ -52,8 +52,8 @@ There are only two types of tasks, A and B, which need to be separated by 3 inte
 
 **Language:** Java  
 **Runtime:** 0 ms  
-**Memory:** 42.9 MB  
-**Submitted:** 2026-09-03T03:55:02.035Z  
+**Memory:** 42.7 MB  
+**Submitted:** 2026-09-03T03:54:18.059Z  
 
 ```java
 public class Solution {
