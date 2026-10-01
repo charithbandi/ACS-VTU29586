@@ -42,9 +42,9 @@ Given an integer array `nums` and an integer `k`, return  *the*  `k`  *most freq
 ## Solution
 
 **Language:** Java  
-**Runtime:** 2 ms  
-**Memory:** 42.3 MB  
-**Submitted:** 2026-10-01T04:00:32.553Z  
+**Runtime:** 14 ms (beats 69.77%)  
+**Memory:** 47.6 MB (beats 48.83%)  
+**Submitted:** 2026-10-01T04:00:42.717Z  
 
 ```java
 import java.util.*;
