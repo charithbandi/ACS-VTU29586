@@ -55,8 +55,8 @@ Explanation: Since there are already no fresh oranges at minute 0, the answer is
 
 **Language:** Java  
 **Runtime:** 2 ms (beats 86.39%)  
-**Memory:** 43.8 MB (beats 95.00%)  
-**Submitted:** 2026-10-15T03:46:21.113Z  
+**Memory:** 43.6 MB (beats 97.34%)  
+**Submitted:** 2026-10-15T03:47:01.925Z  
 
 ```java
 class Solution {
